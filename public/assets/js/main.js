@@ -1,5 +1,5 @@
 /**
-* Author: Peter Wanjohi
+* Author: Esther Mogaka
 /
 */
 !(function($) {

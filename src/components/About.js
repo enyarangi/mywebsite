@@ -26,7 +26,7 @@ export default class About extends Component{
                       <div className="col-lg-6">
                         <ul>
                           <li><i className="icofont-rounded-right" /> <strong>Phone: </strong>{resumeData.basic[0].phone}</li>
-                          <li><i className="icofont-rounded-right" /> <strong>Degree:</strong> Master</li>
+                          <li><i className="icofont-rounded-right" /> <strong>Degree:</strong> Masters</li>
                           <li><i className="icofont-rounded-right" /> <strong>Email:</strong> {resumeData.basic[0].email}</li>
                         </ul>
                       </div>
